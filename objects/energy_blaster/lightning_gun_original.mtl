@@ -1,0 +1,35 @@
+# Blender 5.2.0 LTS MTL File: 'lightning_gun_original.blend'
+# www.blender.org
+
+newmtl Material_1001
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+map_Kd ../textures/Image_0.jpg
+map_Ke ../textures/Image_2.jpg
+map_Bump -bm 1.000000 ../textures/Image_3.jpg
+
+newmtl Material_1002
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd ../textures/Image_8.jpg
+map_Ke ../textures/Image_10.jpg
+map_Bump -bm 1.000000 ../textures/Image_11.jpg
+
+newmtl Material_1003
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd ../textures/Image_4.jpg
+map_Ke ../textures/Image_6.jpg
+map_Bump -bm 1.000000 ../textures/Image_7.jpg
