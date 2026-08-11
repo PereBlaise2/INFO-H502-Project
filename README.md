@@ -1,4 +1,4 @@
-# Survival Arena
+# Hunted Forest Survival
 
 **Survival Arena** is a survival FPS developed in **C++14 / OpenGL** for the **INFO-H502 – 3D Graphics** course.
 
