@@ -1,6 +1,6 @@
 # Hunted Forest Survival
 
-**Survival Arena** is a survival FPS developed in **C++14 / OpenGL** for the **INFO-H502 – 3D Graphics** course.
+**Hunted Forest Survival** is a survival FPS developed in **C++14 / OpenGL** for the **INFO-H502 – 3D Graphics** course.
 
 The player moves through a nocturnal arena surrounded by a dense forest and must survive as long as possible against several types of ghosts. The project notably applies instanced rendering, framebuffers, screen-space refraction, particle systems, BVH-accelerated intersection tests, and several advanced shaders.
 
